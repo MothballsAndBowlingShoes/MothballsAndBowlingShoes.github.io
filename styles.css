@@ -10,7 +10,7 @@ ul {
     position: fixed;
     top: 0;
     width: 100%;
-    font-family: helvetica neu;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 li {
